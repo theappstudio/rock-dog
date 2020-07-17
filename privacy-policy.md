@@ -6,7 +6,7 @@
       <title>Privacy Policy</title>
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
     </head>
-    <body>
+    <body style="text-align: center;">
     <strong>Privacy Policy</strong> <p>
                   App Studio built the Rock Dog-  Find your Rock Dog Challenge app as
                   a Free app. This SERVICE is provided by
