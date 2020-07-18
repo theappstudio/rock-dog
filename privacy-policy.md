@@ -1,4 +1,4 @@
-  Privacy Policy  body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }  **Privacy Policy**
+  **Privacy Policy**
 
 App Studio built the Rock Dog- Find your Rock Dog Challenge app as a Free app. This SERVICE is provided by App Studio at no cost and is intended for use as is.
 
